@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+💻 Développeur Web
+⚡ HTML | CSS | JavaScript | Tailwind | Django
+🚀 Je construis des applications web modernes et responsives
+📚 Actuellement en apprentissage avancé Backend & Data
 <!--
 **Darline237/Darline237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
